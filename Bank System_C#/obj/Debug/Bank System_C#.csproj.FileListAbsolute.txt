@@ -1,0 +1,11 @@
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\bin\Debug\Bank System_C#.exe.config
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\bin\Debug\Bank System_C#.exe
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\bin\Debug\Bank System_C#.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank_System_C_.Form1.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank_System_C_.Properties.Resources.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.csproj.GenerateResource.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.exe
+C:\Users\mujta\source\repos\C#_Disctop\Bank System_C#\obj\Debug\Bank System_C#.pdb
