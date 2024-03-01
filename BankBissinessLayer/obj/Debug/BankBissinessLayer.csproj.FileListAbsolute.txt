@@ -1,0 +1,12 @@
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\BankBissinessLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\BankBissinessLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\BankAccessDataLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\BankAccessDataLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\obj\Debug\BankBissinessLayer.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\obj\Debug\BankBissinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\obj\Debug\BankBissinessLayer.csproj.CopyComplete
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\obj\Debug\BankBissinessLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\obj\Debug\BankBissinessLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\CircularProgressBar.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\WinFormAnimation.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankBissinessLayer\bin\Debug\CircularProgressBar.xml
