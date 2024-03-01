@@ -1,0 +1,25 @@
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\Bank_C#_Full Project.exe.config
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\Bank_C#_Full Project.exe
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\Bank_C#_Full Project.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.Properties.Resources.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.csproj.GenerateResource.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.exe
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\BankBissinessLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\BankAccessDataLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\BankBissinessLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\BankAccessDataLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C#_Full Project.csproj.CopyComplete
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmHome.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmLayout.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmLogin.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmManageClients.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmClientTransactions.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmCurrencyExchange.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\obj\Debug\Bank_C__Full_Project.frmManageUsers.resources
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\CircularProgressBar.dll
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\WinFormAnimation.dll
+C:\Users\mujta\source\repos\C#_Disctop\Bank_C#_Full Project\bin\Debug\CircularProgressBar.xml
