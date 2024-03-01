@@ -1,0 +1,10 @@
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\bin\Debug\BankAccessDataLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\bin\Debug\BankAccessDataLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\obj\Debug\BankAccessDataLayer.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\obj\Debug\BankAccessDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\obj\Debug\BankAccessDataLayer.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\obj\Debug\BankAccessDataLayer.pdb
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\bin\Debug\CircularProgressBar.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\bin\Debug\WinFormAnimation.dll
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\bin\Debug\CircularProgressBar.xml
+C:\Users\mujta\source\repos\C#_Disctop\BankAccessDataLayer\obj\Debug\BankAccessDataLayer.csproj.CopyComplete
